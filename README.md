@@ -1,8 +1,11 @@
 Get started
+
 Install dependencies
 
 npm install expo
+
 restart typescript server
+
 intitally ts.config might say extension not found restart typescript server and it should be fine.
 
 if it isn't working initially:
