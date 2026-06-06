@@ -1,10 +1,14 @@
 Get started
 
 Install dependencies
+
+npm install
+if that doesn't work use this one
 npm install --legacy-peer-deps 
 
 npm install expo
-
+if that doesn't work use this one
+npm install expos --legacy-peer-deps
 restart typescript server
 
 intitally ts.config might say extension not found restart typescript server and it should be fine.
